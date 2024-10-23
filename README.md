@@ -1,6 +1,4 @@
 # recipe
-This is a short decrption about the recipe 
+This is a short description of the Shrimp Avocado Salad
 
-October 22
-Created instruction. txt
-Added a title to instruction. txt
+This low-carb Shrimp Avocado Salad is made with only a few simple ingredients with a zesty lime olive oil dressing that adds a fresh flavor!

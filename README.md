@@ -5,17 +5,16 @@ line 2 changed remotely
 
 This ***low-carb*** Shrimp Avocado Salad is made with only a few simple ingredients with a *zesty lime olive oil dressing* that adds a fresh flavor!
 <h3>Ingredients</h3>
-<ol>
-<li> Shrimp</li>
-<li>Avocado</li>
-<li>Red onions</li>
-<li>Extra virgin olive oil</li>
-<li>Fresh squeezed lime juice</li>
-<li>Some cumin</li>
-<li>Salt and pepper</li>
-</ol>
 
-<img src="recipe.png"/>
+-  Shrimp
+- Avocado
+- Red onions
+- Extra virgin olive oil
+- Fresh squeezed lime juice
+- Some cumin
+- Salt and pepper
+
+![My Image](recipe.png)
 
 last line changed locally
 
